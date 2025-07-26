@@ -18,7 +18,7 @@ Conjuntos de datos: split train/val/test
 Early stopping
 Grid search básico (sin librerías)
 
-## 📅 📅 Semana 4: Frameworks modernos
+## 📅 Semana 4: Frameworks modernos
 ### S7. Introducción a PyTorch (Hands-on)
 Tensores, modelo secuencial, entrenamiento manual
 Implementación básica de red neuronal
